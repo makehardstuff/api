@@ -25,3 +25,7 @@ $ make start
 ```
 
 Please review the [requirements](https://web-dl-tools.github.io/docs/#/requirements), [installation](https://web-dl-tools.github.io/docs/#/installation) and [configuration](https://web-dl-tools.github.io/docs/#/configuration) steps in [the documentation](https://web-dl-tools.github.io/docs/) for additional information and troubleshooting.
+
+## Hosted option
+
+If you don’t want to self-host the Web DL stack, [Vid Kraken](https://vidkraken.com) is a managed YouTube download API (info / mp3 / mp4 endpoints).
