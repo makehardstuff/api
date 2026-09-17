@@ -12,7 +12,7 @@ It's the **sole requirement to run Web DL**.
 * Dynamic file download endpoint for secure file access management.
 * Only stores files locally on device.
 * Runs on less than 2 GB of memory across multiple containers.
-* Authenticated websocket connection support for live status updates.
+* Authenticated websocket connection support for realtime status updates.
 * Even more...
 
 ## Quick start
@@ -20,8 +20,12 @@ It's the **sole requirement to run Web DL**.
 ```bash
 $ git clone https://github.com/web-dl-tools/api.git
 $ cd ./api
-// Fill in .env file
+$ // Fill in .env file
 $ make start
 ```
 
 Please review the [requirements](https://web-dl-tools.github.io/docs/#/requirements), [installation](https://web-dl-tools.github.io/docs/#/installation) and [configuration](https://web-dl-tools.github.io/docs/#/configuration) steps in [the documentation](https://web-dl-tools.github.io/docs/) for additional information and troubleshooting.
+
+## Hosted option
+
+If you don’t want to self-host the Web DL stack, [Vid Kraken](https://vidkraken.com) is a managed YouTube download API (info / mp3 / mp4 endpoints).
